@@ -13,7 +13,7 @@ export const Header = () => {
                 <div className='app-img-container'>
                     <Link to="/"><img src='https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/byb52jmakvfk71lqd0av' /></Link>
                 </div>
-                <h4>Food Villas</h4>
+                <h4>Food Villa</h4>
             </div>
             <ul className='nav-container'>
                 {/* <Link className='link-container'><li>Search</li></Link> */}
